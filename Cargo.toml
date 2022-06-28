@@ -1,6 +1,6 @@
 [package]
 name = "airports"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2021"
 description = "Provides mapping between IATA airport codes and timezones"
 repository = "https://github.com/kroemeke/airports/"
